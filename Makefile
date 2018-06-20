@@ -5,4 +5,4 @@ run: build/db
 	./build/db
 
 clean:
-	rm -f build
+	rm -rf build
